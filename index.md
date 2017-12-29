@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+test pdf link here:
+
+you can [get the PDF](https://github.com/Duane321/mlpp_test/Test PDFs/unigaussMLE-ex.pdf) directly.
+
 You can use the [editor on GitHub](https://github.com/Duane321/mlpp_test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
