@@ -2,7 +2,11 @@
 
 test pdf link here:
 
-you can [get the PDF](https://github.com/Duane321/mlpp_test/TestPDFs/unigaussMLE-ex.pdf) directly.
+you can [get the PDF]({{https://github.com/Duane321/mlpp_test}}/TestPDFs/unigaussMLE-ex.pdf) directly.
+
+you can [get the PDF]({{https://duane321.github.io/mlpp_test/}}/TestPDFs/unigaussMLE-ex.pdf) directly.
+
+you can [get the PDF](https://duane321.github.io/mlpp_test/TestPDFs/unigaussMLE-ex.pdf) directly.
 
 You can use the [editor on GitHub](https://github.com/Duane321/mlpp_test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
