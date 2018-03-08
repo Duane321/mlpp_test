@@ -44,7 +44,7 @@
 | [KL divergence and the number game](https://duane321.github.io/mlpp_test/TestPDFs/KLdivNumberGame_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/KLdivNumberGame_sol.pdf) |
 | [Deriving the posterior predictive density for the healthy levels game](https://duane321.github.io/mlpp_test/TestPDFs/healthyLevelsPostPred_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/healthyLevelsPostPred_sol.pdf) |
 | [Conjugate prior for univariate Gaussian in exponential   family form](https://duane321.github.io/mlpp_test/TestPDFs/conjPriorGaussExpFam_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/conjPriorGaussExpFam_sol.pdf) |
-| [Laplace approximation to $p(\mu,\log \sigma|\data)$ for a univariate Gaussian.](https://duane321.github.io/mlpp_test/TestPDFs/laplaceApproxGaussMeanVar_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/laplaceApproxGaussMeanVar_sol.pdf) |
+| [Laplace approximation to p(mu,log sigma) Given data for a univariate Gaussian.](https://duane321.github.io/mlpp_test/TestPDFs/laplaceApproxGaussMeanVar_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/laplaceApproxGaussMeanVar_sol.pdf) |
 | [Pessimism of LOOCV](https://duane321.github.io/mlpp_test/TestPDFs/LOOCVpessimism_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/LOOCVpessimism_sol.pdf) |
 | [James Stein estimator for Gaussian means \matlabex](https://duane321.github.io/mlpp_test/TestPDFs/JamesStein_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/JamesStein_sol.pdf) |
 | [MLE for the univariate Gaussian](https://duane321.github.io/mlpp_test/TestPDFs/unigaussMLE_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/unigaussMLE_sol.pdf) |
@@ -53,7 +53,7 @@
 | [Variance and MSE of  estimators for Gaussian variance](https://duane321.github.io/mlpp_test/TestPDFs/varianceOfVariance_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/varianceOfVariance_sol.pdf) |
 | [Expressing mutual information in terms of entropies](https://duane321.github.io/mlpp_test/TestPDFs/MI_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/MI_sol.pdf) |
 | [Deriving the decomposition of joint entropy](https://duane321.github.io/mlpp_test/TestPDFs/MI2_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/MI2_sol.pdf) |
-| [Relationship between $D(p||q)$ and $\chi^2$ statistic](https://duane321.github.io/mlpp_test/TestPDFs/Dpqchi2_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/Dpqchi2_sol.pdf) |
+| [Relationship between D(pq) and chi2 statistic](https://duane321.github.io/mlpp_test/TestPDFs/Dpqchi2_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/Dpqchi2_sol.pdf) |
 | [Fun with entropies](https://duane321.github.io/mlpp_test/TestPDFs/entropyFun_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/entropyFun_sol.pdf) |
 | [Mutual information for correlated normals](https://duane321.github.io/mlpp_test/TestPDFs/MIcorrelatedGauss_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/MIcorrelatedGauss_sol.pdf) |
 | [A measure of correlation (normalized mutual information)](https://duane321.github.io/mlpp_test/TestPDFs/MInormalized_ex.pdf) | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/MInormalized_sol.pdf) |

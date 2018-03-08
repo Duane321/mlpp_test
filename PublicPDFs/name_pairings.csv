@@ -41,7 +41,7 @@ BIC for a 2d discrete distribution,modelSel2dDiscrete,public
 KL divergence and the number game,KLdivNumberGame,public
 Deriving the posterior predictive density for the healthy levels game,healthyLevelsPostPred,public
 Conjugate prior for univariate Gaussian in exponential   family form,conjPriorGaussExpFam,public
-"Laplace approximation to $p(\mu,\log \sigma|\data)$ for a univariate Gaussian.",laplaceApproxGaussMeanVar,public
+"Laplace approximation to p(mu,log sigma) Given data for a univariate Gaussian.",laplaceApproxGaussMeanVar,public
 Pessimism of LOOCV,LOOCVpessimism,public
 James Stein estimator for Gaussian means \matlabex,JamesStein,public
 MLE for the univariate Gaussian,unigaussMLE,public
@@ -50,7 +50,7 @@ Estimation of $\sigma^2$ when $\mu$ is known,gaussMLEvarUnbiased,public
 Variance and MSE of  estimators for Gaussian variance,varianceOfVariance,public
 Expressing mutual information in terms of entropies,MI,public
 Deriving the decomposition of joint entropy,MI2,public
-Relationship between $D(p||q)$ and $\chi^2$ statistic,Dpqchi2,public
+Relationship between D(pq) and chi2 statistic,Dpqchi2,public
 Fun with entropies,entropyFun,public
 Mutual information for correlated normals,MIcorrelatedGauss,public
 A measure of correlation (normalized mutual information),MInormalized,public
