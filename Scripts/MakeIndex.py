@@ -35,12 +35,12 @@ private_loc = 'https://duane321.github.io/mlpp_test/TestPDFs/'
 #         raise ValueError('Incorrect level given for {}'.format(hashed_name))
 #     lines.append(line+'\n')
 
-lines = ['# Machine Learning: A Probabilistic Perspective\r\n',
- '\r\n',
- '| Exercise  | Solution |\r\n',
- '| ------------- | ------------- |\r\n',
- '| [Subderivative of the hinge loss function](https://duane321.github.io/mlpp_test/TestPDFs/subgradHinge_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/subgradHinge_sol.pdf)  |\r\n',
- '| [Reproducing kernel property](https://duane321.github.io/mlpp_test/TestPDFs/reproducing_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/reproducing_sol.pdf)  |\r\n',
- '| [Orthogonal matrices](https://duane321.github.io/mlpp_test/TestPDFs/orthogonalMatrices_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/orthogonalMatrices_sol.pdf)  |\r\n']
+lines = ['# Machine Learning: A Probabilistic Perspective\n',
+ '\n',
+ '| Exercise  | Solution |\n',
+ '| ------------- | ------------- |\n',
+ '| [Subderivative of the hinge loss function](https://duane321.github.io/mlpp_test/TestPDFs/subgradHinge_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/subgradHinge_sol.pdf)  |\n',
+ '| [Reproducing kernel property](https://duane321.github.io/mlpp_test/TestPDFs/reproducing_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/reproducing_sol.pdf)  |\n',
+ '| [Orthogonal matrices](https://duane321.github.io/mlpp_test/TestPDFs/orthogonalMatrices_ex.pdf)  | [Solution](https://duane321.github.io/mlpp_test/TestPDFs/orthogonalMatrices_sol.pdf)  |\n']
 with open('index.md','w') as file:
     file.write(''.join(lines))
