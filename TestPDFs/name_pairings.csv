@@ -1,0 +1,138 @@
+full_name,hashed_name,level
+Subderivative of the hinge loss function,subgradHinge,public
+Reproducing kernel property,reproducing,public
+Orthogonal matrices,orthogonalMatrices,public
+Eigenvectors by hand,evecHand,public
+Uncorrelated does not imply independent,corrNotIndep1,public
+Uncorrelated and Gaussian does not imply independent unless {\em jointly Gaussian},gaussIndep,public
+Correlation coefficient is between -1 and +1,corrcoef,public
+Correlation coefficient for linearly related variables is $\pm 1$,corrcoefLinreg,public
+Normalization constant for a multidimensional Gaussian,gaussNormalizationConstMultidim,public
+Bivariate Gaussian,bivariateGauss,public
+Conditioning a bivariate Gaussian,bivariateGaussCond,public
+Derivation of information form formulae for marginalizing and conditioning an MVN,infoForm,public
+Sensor fusion with known variances in 1d,sensorFusion1dKnownVar,public
+Linear combinations of random variables,linComb,public
+Legal reasoning,prosecutor,public
+Expected value of the minimum of two rv's,expectedValMin,public
+Probabilities are sensitive to the form of the question that was used to generate the answer,probabilitiesMinka,public
+Convolution of two Gaussians is a Gaussian,gaussConv,public
+Variance of a sum,VarSum,public
+Bayes rule for medical diagnosis,bayesRuleMedical,public
+Conditional independence,condIndep,public
+Pairwise independence does not imply mutual independence,pairwiseIndepMutualIndep,public
+Conditional independence iff joint factorizes,condIndepIffFactorizes,public
+Deriving the inverse gamma density,invgammaDeriv,public
+Normalization constant for a 1D Gaussian,gaussNormalizationConst,public
+"Mean, mode, variance for the beta distribution",betaMoments,public
+MVN in exponential family form,MVNexpfam,public
+Optimal threshold on classification probability,classifThreshold,public
+Reject option in classifiers,rejectOption,public
+More reject options,moreRejectOptions,public
+Newsvendor problem,newsvendor,public
+Bayes factors and ROC curves,BFROC,public
+Decision rule for trading off FPs and FNs,FPFN,public
+Posterior median is optimal estimate under L1 loss,L1loss,public
+Gaussian posterior credible interval,gaussianCredible,public
+MAP estimation for 1D Gaussians,MAPunigauss,public
+A mixture of conjugate priors is conjugate,mixconj,public
+BIC for Gaussians,BICforGaussians,public
+BIC for a 2d discrete distribution,modelSel2dDiscrete,public
+KL divergence and the number game,KLdivNumberGame,public
+Deriving the posterior predictive density for the healthy levels game,healthyLevelsPostPred,public
+Conjugate prior for univariate Gaussian in exponential   family form,conjPriorGaussExpFam,public
+"Laplace approximation to $p(\mu,\log \sigma|\data)$ for a univariate Gaussian.",laplaceApproxGaussMeanVar,public
+Pessimism of LOOCV,LOOCVpessimism,public
+James Stein estimator for Gaussian means \matlabex,JamesStein,public
+MLE for the univariate Gaussian,unigaussMLE,public
+ML estimator $\sigmaSqMle$ is biased,gaussMLEvarBiased,public
+Estimation of $\sigma^2$ when $\mu$ is known,gaussMLEvarUnbiased,public
+Variance and MSE of  estimators for Gaussian variance,varianceOfVariance,public
+Expressing mutual information in terms of entropies,MI,public
+Deriving the decomposition of joint entropy,MI2,public
+Relationship between $D(p||q)$ and $\chi^2$ statistic,Dpqchi2,public
+Fun with entropies,entropyFun,public
+Mutual information for correlated normals,MIcorrelatedGauss,public
+A measure of correlation (normalized mutual information),MInormalized,public
+Conditional mutual information and naive Bayes classifiers,MINBC,public
+Mutual information between class and binary features,MIclassifier,public
+Fayyad-Irani binning,fayyadIrani,public
+Inference in a simple Bayes net for fish classification,bayesNetInfFishing,public
+Removing leaves in BN20 networks,QMRleaf,public
+Handling negative findings in the QMR network,qmrNegative,public
+Variable elimination,VarElim,public
+Message passing on a tree,msgPassingTree,public
+Inference in 2D lattice MRFs,MRFinf2d,public
+Graphcuts for MAP estimation in binary submodular MRFs,graphcuts,public
+Graphcuts for alpha-beta swap,alphaBetaSwap,public
+Constant factor optimality for alpha-expansion,graphcutsApproxFactor,public
+Dual decomposition for pose segmentation,dualDecompPose,public
+ELBO for univariate Gaussians,unigaussELBO,public
+ELBO for GMMs,GMMELBO,public
+Derivation of $\expect{\log \pi_k,VBlogDir,public
+Alternative derivation of the mean field updates for the Ising model,mfIsingMackay,public
+Forwards vs reverse KL divergence,fwdRevKL,public
+Derivation of the structured mean field updates for FHMM,MFFHMM,public
+Variational EM  for binary FA with sigmoid link,binaryPcaEM,public
+Derivation of the EP updates for trueskill,trueskill,public
+Sampling from a Cauchy,cauchySample,public
+Optimal proposal for particle filtering with linear-Gaussian measurement model,pfopt,public
+Sampling from a truncated beta posterior using MH \matlabex,MHtruncatedBeta,public
+Gibbs sampling from a 2D Gaussian,gibbsMVN,public
+Gibbs sampling for a 1D Gaussian mixture model,gibbsGMM,public
+Gibbs sampling for robust linear regression with a Student likelihood,gibbsStudentLinreg,public
+Gibbs sampling for probit regression,probitGibbs,public
+Gibbs sampling for logistic regression with the Student approximation,gibbsLogregStudent,public
+Dummy encoding and linear models,linregOffset,public
+Multi-output linear regression,linregMultiOutput,public
+Centering and ridge regression,ridgeCentering,public
+MLE for $\sigma^2$ for linear regression,linregSigmaMLE,public
+MLE for the offset term in linear regression,linregMLEoffset,public
+Sufficient statistics for online linear regression,linregMLErecursive,public
+Bayesian linear regression in 1d with known $\sigma^2$,linregBayes1d,public
+Derivation of the gradient for linear regression with Student likelihood,linregStudentGradient,public
+EM for robust linear regression with a Student likelihood,linregStudentEM,public
+Gradient and Hessian of log-likelihood for multinomial logistic regression,multinomLogregGrad,public
+Symmetric version of $\ell_2$ regularized multinomial logistic regression,softmaxL2,public
+Elementary properties of $\ell_2$ regularized logistic regression,logregL2Elem,public
+Regularizing separate terms in 2d logistic regression,logregL2Sep,public
+Logistic regression vs LDA/QDA,LDAvsLogReg,public
+Add-one smoothing for language models,addOneSmoothing,public
+Spam classification using logistic regression,spamLogreg,public
+Spam classification using naive Bayes,spamNB,public
+Partial derivative of the RSS,RSSgradient,public
+EM for ARD,evidenceEM,public
+Fixed point iteration for ARD,ARDFP,public
+Reducing elastic net to lasso,enet,public
+Shrinkage in linear regression,shrinkageLinreg,public
+Prior for the Bernoulli rate parameter in the spike and slab model,ponBayes,public
+Deriving E step for GSM prior,lassoEM,public
+GSM representation of group lasso,GSMgroupLasso,public
+Projected gradient descent for $\ell_1$ regularized least squares,projgradL1,public
+Fitting an SVM classifier by hand,SVMhand,public
+Linear separability,linsepSVM,public
+Gaussian DAGs vs Gaussian MRFs,gaussDAGvsMRF,public
+I-maps for a DGM,Imap,public
+Bayes Ball,bballEX,public
+Markov blanket for a DGM,MBDGM,public
+Hidden variables in DGMs,hvarsDGM,public
+Bayes net for a rainy day,bayesNetsRainy,public
+Moralization does not introduce new independence statements,moralizationIndepence,public
+Conditional independence properties of GMs,condIndepGM,public
+Causal reasoning in the sprinkler network,causalSprinkler,public
+EM  for FA,EMFA,public
+Heuristic for assessing applicability of PCA,PCAheuristic,public
+Deriving the second principal component,pcaSecondDir,public
+Deriving the residual error for PCA,pcaResidual,public
+Derivation of Fisher's linear discriminant,fisherLDA,public
+PCA via successive deflation,pcaDeflation,public
+PPCA variance terms,ppcaVariance,public
+Posterior inference in PPCA,ppcaPost,public
+Imputation in a FA model,FAimpute,public
+Efficiently evaluating the PPCA density,ppcaLoglik,public
+Two filter approach to smoothing in HMMs,twoFilters,public
+Derivation of $Q$ function for HMM,HMMQ,public
+EM for  for HMMs with mixture of Gaussian observations,HMMmix,public
+EM for  for HMMs with tied mixtures,EMHMMtied,public
+EM for LG-SSM,EMLGSSM,public
+Seasonal LG-SSM model in standard form,seasonal,public
