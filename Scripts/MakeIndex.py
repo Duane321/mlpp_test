@@ -19,8 +19,8 @@ lines = ['# Machine Learning: A Probabilistic Perspective\n',
  '| ------------- | ------------- |\n']
 
 
-git_loc = 'https://duane321.github.io/mlpp_test/TestPDFs/'
-private_loc = 'https://duane321.github.io/mlpp_test/TestPDFs/'
+git_loc = 'https://duane321.github.io/mlpp_test/PublicPDFs/'
+private_loc = 'https://duane321.github.io/mlpp_test/PublicPDFs/'
 
 # sys.path.insert(1, os.path.join(sys.path[0], '../PublicPDFs'))
 # for pt in sys.path:
